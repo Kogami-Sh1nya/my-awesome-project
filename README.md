@@ -4,4 +4,4 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://kogami-sh1nya.github.io/my-awesome-project)
+- [Публичная страница на GitHub Pages](https://kogami-sh1nya.github.io/my-awesome-project/src/index.html)
